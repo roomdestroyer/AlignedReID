@@ -446,7 +446,3 @@ Rank-20 : 98.6%
 # 随机情况说明
 
 在train.py中，我们设置了“set_seed”的种子。
-
-# ModelZoo主页  
-
- 请浏览官网[主页](https://gitee.com/mindspore/models)。
